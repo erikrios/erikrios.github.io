@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Erik Rio Setiawan</title>
+    <link>https://erikrios.github.io/tags/</link>
+    <description>Recent content in Tags on Erik Rio Setiawan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Jun 2020 19:34:17 +0700</lastBuildDate>
+    
+	<atom:link href="https://erikrios.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>android-studio</title>
+      <link>https://erikrios.github.io/tags/android-studio/</link>
+      <pubDate>Mon, 22 Jun 2020 19:34:17 +0700</pubDate>
+      
+      <guid>https://erikrios.github.io/tags/android-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://erikrios.github.io/tags/java/</link>
+      <pubDate>Mon, 22 Jun 2020 19:34:17 +0700</pubDate>
+      
+      <guid>https://erikrios.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://erikrios.github.io/tags/kotlin/</link>
+      <pubDate>Mon, 22 Jun 2020 19:34:17 +0700</pubDate>
+      
+      <guid>https://erikrios.github.io/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
