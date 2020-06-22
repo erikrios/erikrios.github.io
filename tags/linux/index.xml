@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Erik Rio Setiawan</title>
+    <link>https://erikrios.github.io/tags/linux/</link>
+    <description>Recent content in linux on Erik Rio Setiawan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Jun 2020 20:23:21 +0700</lastBuildDate>
+    
+	<atom:link href="https://erikrios.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Membuat Project Flutter Di Terminal Linux</title>
+      <link>https://erikrios.github.io/blog/membuat-project-flutter-di-terminal-linux/</link>
+      <pubDate>Mon, 22 Jun 2020 20:23:21 +0700</pubDate>
+      
+      <guid>https://erikrios.github.io/blog/membuat-project-flutter-di-terminal-linux/</guid>
+      <description>Kali ini saya akan share pengetahuan saya untuk membuat project Flutter menggunakan terminal Linux.</description>
+    </item>
+    
+  </channel>
+</rss>
