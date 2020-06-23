@@ -16,7 +16,8 @@
       <pubDate>Mon, 22 Jun 2020 20:23:21 +0700</pubDate>
       
       <guid>https://erikrios.github.io/blog/membuat-project-flutter-di-terminal-linux/</guid>
-      <description>Kali ini saya akan share pengetahuan saya untuk membuat project Flutter menggunakan terminal Linux.</description>
+      <description>Kali ini saya akan share pengetahuan saya untuk membuat project Flutter menggunakan terminal Linux. Sebenarnya, cara membuat project Flutter sendiri, memiliki beberapa cara, diantaranya dengan menggunakan terminal (command prompt / bash), Visual Studio Code, Intellij IDEA, dan Android Studio.
+Membuka Terminal Buka terminal pada Linux, dengan mengklik icon terminal atau menggunakan shortcut (CTRL + ALT + T). Selanjutya beralih ke direktori tempat project akan disimpan dengan perintah cd &amp;lt;direktori tujuan&amp;gt;.</description>
     </item>
     
     <item>
