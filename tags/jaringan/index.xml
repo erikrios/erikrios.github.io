@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jaringan on Erik Rio Setiawan</title>
+    <link>https://erikrios.github.io/tags/jaringan/</link>
+    <description>Recent content in jaringan on Erik Rio Setiawan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Jun 2020 12:11:30 +0700</lastBuildDate>
+    
+	<atom:link href="https://erikrios.github.io/tags/jaringan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulasi Membuat Jaringan Sederhana Dengan Cisco Packet Tracer</title>
+      <link>https://erikrios.github.io/blog/simulasi-membuat-jaringan-sederhana-dengan-cisco-packet-tracer/</link>
+      <pubDate>Sat, 27 Jun 2020 12:11:30 +0700</pubDate>
+      
+      <guid>https://erikrios.github.io/blog/simulasi-membuat-jaringan-sederhana-dengan-cisco-packet-tracer/</guid>
+      <description>Sebelum membuat jaringan komputer yang kompleks, ada baiknya apabila memahami terlebih dahulu untuk membuat jaringan sederhana. Di dalam membuat jaringan sederhana ini, menggunakan simulasi pada Cisco Packet Tracer. Dengan demikian, mahasiswa dapat memahami fundamental jaringan komputer.
+Di dalam membuat jaringan sederhana, kita mulai dengan simulasi 2 PC dan satu switch. Kedua PC tersebut nantinya akan saling berkomunikasi satu dengan yang lainnya. Sebagai perantara antar PC, menggunakan switch yang berfungsi sebagai penghubung antara beberapa perangkat di dalam suatu jaringan komputer.</description>
+    </item>
+    
+  </channel>
+</rss>
