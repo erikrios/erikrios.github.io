@@ -1115,8 +1115,15 @@ main {
 }
 
 
-
-
+.blog-part {
+  position: relative;
+  height: 300px;
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 30px;
+  border: 1px solid var(--jet);
+  overflow: hidden;
+}
 
 /*-----------------------------------*\
   #CONTACT
@@ -1513,6 +1520,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   .blog-content { padding: 25px; }
 
 
+  .blog-part {
+    height: 800px;
+    border-radius: 18px;
+  }
 
   /**
    * #CONTACT
